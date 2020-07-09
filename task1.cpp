@@ -1,5 +1,8 @@
 #include<iostream>
 #include<cmath>
+
+// add function
+
 int main() {
     int a,b,c,d;
     std::cout<<"nermucel a=";
@@ -27,9 +30,4 @@ int main() {
     std::cout<<"x1="<<(-b+sqrt(d))/(2*a)<<"\n";
     std::cout<<"x2="<<(-b-sqrt(d))/(2*a)<<"\n";
     return 0;
-
-       
-
-
-
 }
