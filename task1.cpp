@@ -2,8 +2,7 @@
 #include<cmath>
 
 // add function
-hkhkjrhkwehjhkrwesjtjkwhekh
-dghsh
+
 int main() {
     int a,b,c,d;
     std::cout<<"nermucel a=";
