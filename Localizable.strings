@@ -1,0 +1,259 @@
+"De"="de";
+"Fr"="fr";
+"En"="en";
+"It"="it";
+
+"Help"="Aiuto";
+"Back" = "indietro";
+
+"tutorialButtonText" = "Tutorial";
+"helpButtonText" = "Aiuto";
+"Home Screen" = "Schermo di casa";
+"Select language" = "Selezioni la lingua";
+"INSTRUCTIONS" = "Benvenuto";
+"All set" = "COMINCIARE";
+"InstructionTitle" = "Questa app le permette di identificarsi per confermare il suo nuovo ordine Salt.";
+"InstructionQR" = "Scansioni il suo codice QR";
+"InstructionDoc" = "Scansioni il suo documento d’identità";
+"InstructionSelfie" = "Registri un video del suo viso";
+"retryButtonText" = "Riprovare";
+"3 simple steps" = "3 semplici passi";
+"2 simple steps" = "2 semplici passi";
+"The scanned code is not valid. Please try again." = "Messaggio di errore";
+"THE CODE IS INVALID" = "Codice non riconosciuto";
+"QR CODE IS BEING VERIFIED" = "Codice riconosciuto";
+"To the ID scan" = "DOCUMENTO ID scansione";
+"CHECK OF THE QR CODE" = "Codice riconosciuto";
+"QRTitle" = "Si prega di scansionare il codice QR fornito";
+"AccessCheck" = "Accetta i termini e le condizioni";
+"NEXT" = "Go";
+"WAIT" = "WAIT";
+"Place the QR code in the centre of the green square on your screen." = "Posizioni il cellulare in modo che il codice QR si trovi all’interno del riquadro verde.";
+"Scan the QR code" = "Scansionare il codice QR";
+"Warning: The scanning process failed." = "La scansione non è riuscita";
+"qrExpiredScanningErrorTitle" = "Scansione non riuscita";
+"The following errors may have occurred:" = "Possono essersi verificati i seguenti errori:";
+"1. You have exceeded the 25-second time limit for the scanning process.\n\n2. The QR code is not the same as the one you received by email and which is associated with this contract. \n\n3. The brightness is insufficient.\n\n4. Tip: Clean the lens of your camera." = "1. Il limite di tempo previsto per la scansione (25 secondi) è stato superato.\n\n2. Il codice QR non è lo stesso che ha ricevuto per e-mail e che è associato all’ordine in questione. \n\n3. Luminosità insufficiente.\n\n4. Consiglio: riprovi dopo aver pulito la lente della fotocamera.";
+"Tip:" = "Consiglio:";
+"Try again" = "RIPROVARE";
+"Bad transaction code" = "Bad transaction code";
+"firstName" = "Nome";
+"lastName" = "Cognome";
+"dateOfBirth" = "Data di nascita";
+"gender" = "Sesso";
+"nationality" = "Nazionalità";
+"documentType" = "Tipo di documento";
+"documentNumber" = "Numero del documento";
+"expirationDate" = "Data di scadenza";
+"RESET" = "RICOMINCIARE";
+"CONFIRM" = "CONFERMARE";
+"Warning: Document Scan" = "Scansione non riuscita";
+"Warning: Video Capture" = "Ripresa non riuscita";
+"Warning: Face Verification" = "Errore di identificazione ";
+"faceVerificationFinalErrorTitle" = "Identificazione non riuscita";
+"idScanningErrorMessage" = "1. Permesso di lavoro cartaceo: assicurati di avere rimosso la fodera di plastica. \n\n2. Il documento d’identità non è lo stesso che hai fornito al momento dell’ordine. \n\n3. Mancanza di stabilità (appoggia i gomiti su una superficie solida per avere più stabilità). \n\n4. Assicurati che nessuna sorgente di luce diretta si rifletta sul tuo documento d’identità.\n\n5. Suggerimenti: \n\n        \U1CC3 Metta il documento d’identità al centro del riquadro verde sul suo display.\n\n        \U1CC3 Metta il documento su uno sfondo a tinta unita.\n\n        \U1CC3 Scansioni il tuo documento d’identità inclinando leggermente lo smartphone";
+"1. During the 5 seconds of recording, you left the green frame.\n\n2. Too much or insufficient brightness. \n\n" = "1. Il suo viso è uscito dal riquadro durante i 5 secondi della ripresa.\n\n2. Luminosità troppo alta o insufficiente.\n\n";
+"order is validated" = "Ed ecco che il suo ordine è confermato!";
+"Some good practices:" = "Buono a sapersi:";
+"1. Keep at hand your personal QR code that you received in the confirmation email of your purchase.\n\n2. Allow the application to access the camera of your mobile phone (mandatory).\n\n3. Take care not to place any objects in front of the camera." = "1. Recuperi il codice QR personale che ha ricevuto nell’e-mail di conferma dell’ordine.\n\n2. Autorizzi l'applicazione ad accedere alla sua fotocamera (obbligatorio).\n\n3. Attenzione a non mettere niente davanti alla fotocamera.";
+"Start" = "INIZIARE";
+"privacyLink" = "salt.ch/it/legal/privacy-statement/.";
+"privacyUrl" = "https://www.salt.ch/it/legal/privacy-statement/";
+"Scan ID document" = "Scansionare il documento d’identità";
+"1. Make sure that the orientation lock on your phone is turned off.\n\n2. Make sure that no direct light source is reflecting onto your ID.\n\n3. Scan your ID document.Depending on the ID type, you may need to scan several pages.\n\n4. Once the scan has been accepted, you will be taken to the next step." = "1. Utilizzi rigorosamente lo stesso documento d’identità che ha indicato al momento dell’ordine.\n\n2. Si assicuri che il blocco dell’orientamento dello schermo sia disattivato.\n\n3. Si assicuri che nessuna sorgente di luce diretta si rifletta sul documento d’identità.\n\n4. In base al tipo di documento d’identità, potrebbe dover scansionare più pagine.";
+"Confirm the data" = "Confermare i dati";
+"Record video" = "Ripresa video";
+"For secure identification, we now request that you record a video of your face." = "Per un'identificazione sicura, le chiediamo ora di filmare il suo volto.";
+"videoRecordStepMessage" = "1. Il suo volto deve essere totalmente visibile (se li porta, tolga per favore gli occhiali).\n\n2. Gli occhi devono essere aperti e perfettamente visibili.\n\n3. Sulla testa non deve avere niente (cappello, sciarpa, foulard, fascia per i capelli o altro accessorio decorativo).\n\n4. Mantenga la testa diritta e il viso rivolto verso la fotocamera.\n\n5. Attenzione alla luminosità: né troppo alta, né troppo bassa.\n\n6. Consiglio: effettui la ripresa su uno sfondo di colore uniforme e che offra il miglior contrasto possibile.";
+"faceVerificationErrorMessage" = "Identificazione non riuscita: il volto registrato può essere diverso da quello nella foto sul documento d'identità.\n\nAttenzione: il titolare del documento d'identità deve effettuare in prima persona questo processo di identificazione.";
+"Beware:" = "Attenzione:";
+"Congratulation !" = "Congratulazioni!";
+"You have successfully completed the procedure." = "Ha terminato con successo la procedura di identificazione.";
+"Your order is now validated and you will receive it as soon as possible. You can track the status of your order on \"My Account\"." = "Il suo ordine è ora stato confermato e lo riceverà al più presto. Può seguire il suo ordine su Mio Conto.";
+"Thank you for your trust." = "Grazie per la sua fiducia e a presto.";
+"videoTitle" = "La ripresa video del suo volto \ndurerà 5 secondi";
+"scanFirstPage" = "Scansioni la prima pagina";
+"Place your face in the centre of the green frame for recording." = "Inquadri il suo viso all’interno del rettangolo verde e inizi la ripresa.";
+"Close app" = "CHIUDERE L’APP";
+"faceVerificationFinalErrorMessage" = "Purtroppo, dopo 3 tentativi, l’identificazione tramite l’app Salt ID Checker non è stata possibile.\n\nNessun problema. Alla fine dell’e-mail che ha appena ricevuto troverà come procedere in caso di problemi durante l’identificazione.\n";
+"idRecognitionFinalErrorMessage" = "Purtroppo, dopo 5 tentativi, la sua identificazione tramite l’app Salt ID Checker non è stata possibile.\n\nNessun problema. Alla fine dell’e-mail che hai appena ricevuto troverai come procedere in caso di problemi durante l’identificazione.\n";
+"Failure to send data" = "Errore tecnico";
+"dataSendErrorTitle" = "Si è verificato un errore di comunicazione con il nostro server.";
+"dataSendErrorMessage" = "Suggerimento: verifichi che il suo telefono sia connesso a internet (4G o WiFi) e riprovi.";
+"dataSendErrorFinalTitle" = "Si è verificato un problema tecnico nell'elaborazione dei suoi dati. La preghiamo di ricominciare la procedura d’identificazione più tardi per completare la sua registrazione.";
+"Retry later or call the support service" = "Riprovare più tardi o contattare il nostro supporto";
+"dataSendErrorFinalMessage" = "Se il problema persiste ci può contattare al numero 0800 700 700.";
+"phoneNumberBoldText" = "0800 700 700.";
+"The following error has occurred:" = "Si è verificato il seguente errore:";
+"helpUrl" = "https://fiber.salt.ch/it/help/mobile-support/id-checker";
+"tutorialUrl" = "https://fiber.salt.ch/it/help/mobile-support/id-checker/#video";
+"Finish" = "FINIRE";
+"Start verification" = "Avvivare la verifica";
+"Work permit in paper format" = "Permesso di lavoro cartaceo";
+"Work permit (in credit card format)" = "Permesso di lavoro (formato carta di credito)";
+
+
+
+
+
+
+
+
+
+
+
+
+"QR CODE"="CODICE QR";
+"QRCode Recognition Started" = "QRCode Recognition Started";
+"QRCode Extraction Done" = "QRCode Extraction Done";
+"QRCode Move Closer" = "QRCode Move Closer";
+"QRCode Move Further" = "QRCode Move Further";
+"QRCode Recognition Stopped" = "QRCode Recognition Stopped";
+"CODE RECOGNISED" = "CODICE RICONOSCIUTO";
+"Verification only takes a few seconds..." = "La verifica richiede solo alcuni secondi...";
+"qrLoadingMessage" = "La verifica richiede solo alcuni secondi…";
+
+"APPROVAL REQUIRED" = "CONSENSO NECESSARIO";
+"You must accept the Terms and Conditions to be able to start the verification process." = "Per avviare la verifica devi accettare le CGC.";
+
+"Scan again" = "Ripeti scansione";
+
+"THE CODE IS NO LONGER VALID" = "IL CODICE NON È PIÙ VALIDO";
+
+"German"="DEUTSCH";
+"Freach"="FRANÇAIS";
+"English"="ENGLISH";
+"Italian"="ITALIANO";
+
+
+"NO CONNECTION WITH THE INTERNET" = "NO CONNECTION WITH THE INTERNET";
+"Please make sure your device is connected to the internet." = "Controlla che il tuo dispositivo sia connesso a Internet.";
+
+"ACCESS TO CAMERA" = "ACCESSO ALLA FOTOCAMERA";
+"Sorry, without access to the camera you cannot be verified by the app." = "Se rifiuti l’accesso alla fotocamera, l’app non potrà verificare i tuoi dati.";
+
+"\"SALT ID Checker\" would like to access your camera" = "\"SALT ID Checker\" vuole accedere alla tua fotocamera";
+
+"Necessary for scanning QR codes and documents and for a selfie of you" = "Accesso necessario per scansionare codici QR e documenti nonché per i selfie";
+
+"Settings" = "Impostazioni                 ";
+"Deny access" = "Nega";
+
+"rotate_icon_en" = "rotate_icon_it";
+
+"Terms and Conditions" = "CG";
+"Fair Use Policy" = "Fair Use Policy";
+"Privacy Policy" = "Privacy Policy";
+"checkEigth" = "Accetto le CG per l\'uso dell\'app, la Fair Use Policy e Privacy Policy di SALT";
+
+"TERMS OF USING THE SALT ID CHECKER APP" = "CG per l\'uso dell\'SALT ID Checker App";
+
+
+
+"The scanned code is not valid. Therefore, the postman will manually verify your passport upon handover. Your order will remain. You can close the app, all further steps have already been initiated." = "Il codice scansionato non è più valido. Pertanto alla consegna il postino controllerà manualmente il tuo documento d’identità. Il tuo ordine è comunque confermato. Puoi chiudere l’app, tutti gli step per l’evasione sono già in corso.";
+
+"An error has occured" = "An error has occured";
+"ID Timeout Expired" = "ID Timeout Expired";
+"No ID document detected" = "No ID document detected";
+"There was no data indicating there was an ID present during scanning" = "There was no data indicating there was an ID present during scanning";
+"The scanned ID is not included in the allowed list of IDs" = "The scanned ID is not included in the allowed list of IDs";
+"The scanned ID is expired" = "The scanned ID is expired";
+"ID Data cannot be verified" = "ID Data cannot be verified";
+"There was no face detected on the scanned ID" = "There was no face detected on the scanned ID";
+"Error during scanning \nThis document is not allowed. Please try again with another ID." = "Error during scanning \nThis document is not allowed. Please try again with another ID.";
+"The ID scanned is expected to have 2 sides of the document, one side is missing or could not be detected" = "The ID scanned is expected to have 2 sides of the document, one side is missing or could not be detected";
+"Error occured during formatting data for upload" = "Error occured during formatting data for upload";
+"The template for the expected ID type failedd" = "The template for the expected ID type failedd";
+"The MRZ is not standard or MRZ data is damaged or MRZ data could not be extracted" = "The MRZ is not standard or MRZ data is damaged or MRZ data could not be extracted";
+"MRZ DOB not valid" = "MRZ DOB not valid";
+"MRZ could not be verified, could be a fake MRZ" = "MRZ could not be verified, could be a fake MRZ";
+"The expiry date of the ID in MRZ is not valid" = "The expiry date of the ID in MRZ is not valid";
+"The document number of the ID in MRZ is not valid" = "The document number of the ID in MRZ is not valid";
+"The gender in MRZ is not valid" = "The gender in MRZ is not valid";
+"The first name in MRZ is not valid" = "The first name in MRZ is not valid";
+"The last name in MRZ is not valid" = "The last name in MRZ is not valid";
+"The issuing country of the ID in MRZ is not valid" = "The issuing country of the ID in MRZ is not valid";
+"The nationality in MRZ is not valid" = "The nationality in MRZ is not valid";
+"Incomplete data" = "Incomplete data";
+"Error 300" = "Error 300";
+"Error 301" = "Error 301";
+"Wrong document" = "Wrong document";
+"Please first scan your permit" = "Please first scan your permit";
+
+"cameraWarningText" = "Modifica le impostazioni in modo da abilitare l'accesso alla fotocamera.";
+"settings" = "impostazioni";
+
+"Scan first page" = "Scan first page";
+"Center document" = "Centrare il documento";
+"Move closer" = "Move closer";
+"Move further" = "Move further";
+"Searching for machine-readable area" = "Searching for machine-readable area";
+"Scan OK" = "Scansione OK";
+"Document not allowed" = "Document not allowed";
+"Scan other side" = "Scansiona il retro";
+"Continue scanning" = "Continue scanning";
+"Data is being processed" = "Data is being processed";
+"Hold still" = "Durante la scansione, mantenga il cellulare il più fermo possibile.";
+"Rotate screen" = "Rotate screen";
+
+"CHECKING THE IDENTIFICATION" = "VERIFICA DEL DOCUMENTO";
+"ID IS VALID" = "DOCUMENTO VALIDO";
+
+"IDENTIFICATION IS NOT VALID" = "IL DOCUMENTO NON È VALIDO";
+"Unfortunately we could not verify your ID. Please try again."  = "Impossibile verificare il documento. Riprova.";
+"Recheck ID" = "Ripeti verifica documento";
+"Your ID could not be verified. Therefore, the postman will manually verify your passport upon handover. Your order will remain. You can close the app, all further steps have already been initiated." = "Your ID could not be verified. Therefore, the postman will manually verify your passport upon handover. Your order will remain. You can close the app, all further steps have already been initiated.";
+
+"To the selfie" = "Vai al selfie";
+"SELFIE" = "SELFIE";
+"Please make a short video of yourself" = "Riprendi un breve video che ti ritrae";
+"SELFIE AND ID ARE BEING AUTHENTICATED" = "CONFRONTO TRA SELFIE E DOCUMENTO IN CORSO";
+"AUTHENTICATION SUCCESSFUL" = "CONFRONTO TERMINATO";
+"YOUR DATA IS BEING UPLOADED" = "I TUOI DATI VENGONO CARICATI";
+"YOUR DATA HAVE BEEN SUCCESSFULLY VERIFIED" = "I TUOI DATI SONO STATI VERIFICATI";
+"The order will now be processed further. Your package will be delivered at the designated time. You can close the app." = "L’ordine viene elaborato. Il pacco sarà consegnato alla data prevista. Puoi chiudere l’app.";
+"SECOND SIDE OF ID Card NOT RECOGNIZED" = "RETRO DEL DOCUMENTO NON RICONOSCIUTO";
+"For verification, the front and back of the badge must be scanned. Please try again." = "Per la verifica occorre scansionare fronte e retro del documento d’identità. Riprova.";
+"IDENTIFIED IS EXPIRED" = "IL DOCUMENTO È SCADUTO";
+
+"SELFIE AND IDENTIFICATION DO NOT AGREE" = "SELFIE E DOCUMENTO NON COINCIDONO";
+"Your ID card and your selfie could not be verified. Therefore, the postman will manually verify your passport upon handover. Your order will remain. You can close the app, all further steps have already been initiated." = "Your ID card and your selfie could not be verified. Therefore, the postman will manually verify your passport upon handover. Your order will remain. You can close the app, all further steps have already been initiated.";
+"SELFIE AND IDENTIFICATION COMPENSATION" = "CONFRONTO TRA SELFIE E DOCUMENTO";
+"Take a selfie again" = "Scatta un altro selfie";
+"Unfortunately, there was no successful match between your document and the selfie. Please try again." = "Purtroppo il confronto tra selfie e documento non ha dato esito positivo. Riprova.";
+
+"genericTitleConst" = "QUALCOSA NON HA FUNZIONATO";
+"genericNoChargeMessageConst" = "Pertanto alla consegna il postino controllerà manualmente il tuo documento d’identità.\n\nLa tua ordinazione rimane comunque confermata, però non verranno addebitati ulteriori costi.\n\nPuoi chiudere l’app, tutti gli step per l’evasione sono già in corso.";
+"genericMessageConst" = "Pertanto alla consegna il postino controllerà manualmente il tuo documento d’identità.\n\nIl tuo ordine è comunque confermato.\n\nPuoi chiudere l’app, tutti gli step per l’evasione sono già in corso.";
+"cameraRetryTitleConst" = "ACCESSO ALLA FOTOCAMERA";
+"cameraRetryMessageConst" = "Se rifiuti l’accesso alla fotocamera, l’app non potrà verificare i tuoi dati.";
+
+"internetRetryTitleConst" = "NESSUNA CONNESSIONE A INTERNET";
+"internetRetryMessageConst" = "Controlla che il tuo dispositivo sia connesso a Internet.";
+"documentNotValidRetryTitleConst" = "DOCUMENTO NON VALIDO OPPURE SECONDA PAGINA NON RICONOSCIUTA";
+"documentNotValidRetryMessageConst" = "Accertati che le condizioni di luminosità siano buone quando scansioni entrambe le pagine del documento di identità.";
+"dataUploadRetryTitleConst" = "QUALCOSA NON HA FUNZIONATO CON L'UPLOAD";
+"Resend" = "Invia di nuovo";
+
+"Align document with viewfinder" = "Posizionare il documento all'interno del mirino";
+"Move phone closer" = "Avvicinare il cellulare";
+"Scan second page" = "Scansioni la seconda pagina";
+"Align document so that the text is parallel with the longer side of the phone" = "Posizionare il documento in modo che il testo sia parallelo al lato più lungo del cellulare";
+"Align with the ID" = "Inquadra il documento";
+"UPDATE" = "AGGIORNARE";
+"For security reasons, download the Salt ID Checker app update before proceeding with your identification." = "Per questioni di sicurezza, scarica l’aggiornamento dell’app Salt ID Checker per procedere alla tua identificazione.";
+"thankstrustText" = "Grazie per la sua fiducia e a presto.";
+"ID Card scanning process failed" = "Errore di scansione della carta d'identità";
+"Passport scanning process failed" = "Errore di scansione del passaporto";
+"Work permit scanning process failed" = "Errore di scansione del permesso di lavoro";
+"idCardScanningErrorMessage" = "1. Metta il documento d’identità al centro del riquadro verde sul suo display. Vedi immagine sopra.\n\n2. Scansioni in orizzontale il lato con la foto. Poi scansioni l'altro lato.\n\n3. Si assicuri che il blocco dell’orientamento del suo schermo non sia attivo.";
+"passportScanningErrorMessage" = "1. Metta il documento d’identità al centro del riquadro verde sul suo display. Vedi immagine sopra.\n\n2. Scansioni in orizzontale solo la pagina con la sua foto.\n\n3. Si assicuri che il blocco dell’orientamento del suo schermo non sia attivo.";
+"permitScanningErrorMessage" = "1. Rimuova la fodera di plastica.\n\n2. Metta il documento d’identità al centro del riquadro verde sul suo display. Vedi immagine sopra.\n\n3. Scansioni in verticale la pagina con i suoi dati personali. Poi scansioni la pagina con la sua foto.\n\n4. Si assicuri che il blocco dell’orientamento del suo schermo non sia attivo.";
+"thresholdMatchFailureTitle" = "Dati errati";
+"thresholdMatchFailureMessage" = "I dati del documento d’identità che hai scansionato non corrispondono ai dati sul documento che hai fornito al momento del tuo ordine.";
+"thresholdMatchFailureFinalMessage" = "I dati del documento d’identità che hai scansionato non corrispondono ai dati sul documento che hai fornito al momento del tuo ordine.\n\nTi preghiamo di contattare la nostra hotline gratuita allo 0800 700 700.";
+"fullMatchFailureTitle" = "I suoi dati devono essere verificati dal nostro team";
+"fullMatchFailureMessage" = "Abbiamo tenuto conto della sua identificazione. Un’ulteriore verifica è necessaria per validare definitivamente il suo ordine. Il nostro team di supporto elaborerà la sua richiesta e le risponderà via e-mail entro 48 ore.";
+"This QR code is invalid, has already been used or has expired. More information on: www.lidl-connect.ch/de/support-faq/#idchecker" = "Questo codice QR non è valido, è già stato utilizzato o è scaduto. Più info su: https://fiber.salt.ch/it/help/mobile-support/id-checker";
+"passport" = "passport";
+"helloLabelText" = "Salve";
